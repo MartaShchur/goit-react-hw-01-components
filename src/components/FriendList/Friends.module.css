@@ -6,21 +6,21 @@
     width: 370px;
 }
 
-.friends__list {
+.friendsList {
     display: flex;
     flex-direction: column;
     width: inherit;
     padding: 0;
 }
 
-.friends__item {
+.friendsItem {
     display: flex;
     align-items: center;
     box-shadow: 0 0 10px #c6cccced;
     padding: 20px;
 }
 
-.friends__status {
+.friendsStatus {
     width: 30px;
     height: 30px;
     border-radius: 50%;
@@ -40,7 +40,7 @@
     margin-right: 10px;
 }
 
-.friends__name {
+.friendsName {
     font-weight: 700;
     font-size: 30px;
     margin-bottom: 15px;
